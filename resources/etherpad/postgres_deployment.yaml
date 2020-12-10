@@ -66,4 +66,8 @@ spec:
       volumes:
       - name: postgresql-data
         persistentVolumeClaim:
+<<<<<<< HEAD
           claimName: postgresql
+=======
+          claimName: postgresql
+>>>>>>> a25d94b2a2813e8cbe6f3c3dc63f678b7bab6e23
